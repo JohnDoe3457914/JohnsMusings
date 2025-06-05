@@ -13,15 +13,19 @@
       <guid>odcinek1</guid>
       <enclosure url="https://drive.google.com/file/d/1KhCFRiR2jTlc9P0U0TcMrc-8cOViXO4P/view?usp=drive_link" length="35300000" type="audio/mpeg"/>
     </item>
- <title>John Dryden - Scenes from a Crime</title>
+    <item>
+    <title>John Dryden - Scenes from a Crime</title>
       <description>Drugi odcinek mojego prywatnego podcastu.</description>
       <pubDate>Thu, 05 Jun 2025 12:00:00 GMT</pubDate>
       <guid>odcinek2</guid>
       <enclosure url="https://drive.google.com/file/d/1y8lw8jvLVdeS3KUnUjneOtrsp-pke-Bu/view?usp=drive_link" length="25100000" type="audio/mpeg"/>
-<title>Katie Hims - Cops & Robbers</title>
+    </item> 
+    <item>
+    <title>Katie Hims - Cops & Robbers</title>
       <description>Trzeci odcinek mojego prywatnego podcastu.</description>
       <pubDate>Thu, 05 Jun 2025 12:00:00 GMT</pubDate>
       <guid>odcinek3</guid>
       <enclosure url="https://drive.google.com/file/d/1PzfBZwbyalepBwva0KqhybUcvpn5edY9/view?usp=drive_link" length="25100000" type="audio/mpeg"/>
+    </item>
   </channel>
 </rss>
