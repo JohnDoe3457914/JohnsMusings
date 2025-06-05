@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>JohnsMusings</title>
+    <link>https://twoja-nazwa.github.io/moj-podcast/</link>
+    <description>Prywatny podcast dostępny tylko dla wybranych osób.</description>
+    <language>pl-PL</language>
+    <copyright>Copyright 2025 Mój Podcast</copyright>
+    <item>
+      <title>Grimm&Co</title>
+      <description>Pierwszy odcinek mojego prywatnego podcastu.</description>
+      <pubDate>Thu, 05 Jun 2025 12:00:00 GMT</pubDate>
+      <guid>odcinek1</guid>
+      <enclosure url="https://drive.google.com/file/d/1MtkPGnMWUq3dsu2uXkTWvvYxy4OsOLeo/view?usp=share_link" length="35300000" type="audio/mpeg"/>
+    </item>
+ <title>Dryden, John - Scenes from a Crime</title>
+      <description>Drugi odcinek mojego prywatnego podcastu.</description>
+      <pubDate>Thu, 05 Jun 2025 12:00:00 GMT</pubDate>
+      <guid>odcinek1</guid>
+      <enclosure url="https://drive.google.com/file/d/1y8lw8jvLVdeS3KUnUjneOtrsp-pke-Bu/view?usp=share_link" length="25100000" type="audio/mpeg"/>
+  </channel>
+</rss>
